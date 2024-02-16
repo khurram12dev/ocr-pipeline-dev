@@ -1,0 +1,762 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RLAS_1"
+        }
+    },
+    "_via_img_metadata": {
+        "RLAS_1.png1272119": {
+            "filename": "RLAS_1.png",
+            "size": 1272119,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 346,
+                        "y": 543,
+                        "width": 417,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 793,
+                        "y": 540,
+                        "width": 2038,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_or_tenant",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 296,
+                        "y": 609,
+                        "width": 2312,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_or_hosuing_provider",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 605,
+                        "y": 718,
+                        "width": 341,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "purchase_agreement_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 406,
+                        "y": 881,
+                        "width": 2498,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "P1_housing_provider_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 422,
+                        "y": 994,
+                        "width": 2762,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "personal_residence_premises_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2612,
+                        "y": 944,
+                        "width": 592,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "personal_residence_premises_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 793,
+                        "y": 1103,
+                        "width": 31,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "more_than_14_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 839,
+                        "y": 1095,
+                        "width": 145,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "Radio": "guest_stay_days",
+                        "tag": "bkankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 521,
+                        "y": 1262,
+                        "width": 158,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "terminate_calendar_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1586,
+                        "y": 1263,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "close_of_escrow_or",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1704,
+                        "y": 1255,
+                        "width": 395,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "close_of_escrow_or_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2533,
+                        "y": 1263,
+                        "width": 32,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "or_am_pm_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2583,
+                        "y": 1255,
+                        "width": 141,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "time",
+                        "tag": ""
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2742,
+                        "y": 1262,
+                        "width": 31,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "AM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2873,
+                        "y": 1262,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "PM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1323,
+                        "y": 1566,
+                        "width": 34,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposits",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1751,
+                        "y": 1563,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "first_month_rent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2226,
+                        "y": 1565,
+                        "width": 36,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_for_entire_lease_terms",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 781,
+                        "y": 1612,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_payments_other",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 967,
+                        "y": 1616,
+                        "width": 670,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_payments_other_comments",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1193,
+                        "y": 1815,
+                        "width": 425,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_per_month_amount",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1347,
+                        "y": 1884,
+                        "width": 31,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_is_not_payable_on_1st_of_month",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1397,
+                        "y": 1884,
+                        "width": 141,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_day",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1111,
+                        "y": 2171,
+                        "width": 30,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_by_personal_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1538,
+                        "y": 2170,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_by_money_order",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1911,
+                        "y": 2167,
+                        "width": 31,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_by_cashier_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2344,
+                        "y": 2171,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_by_escrow",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 513,
+                        "y": 2227,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_paid_by_electronic_payment_method",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1173,
+                        "y": 2226,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "other_payment_method_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1340,
+                        "y": 2223,
+                        "width": 399,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "other_payment_method",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3162,
+                        "y": 2224,
+                        "width": 29,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "payment_via_paypal_or_venmo",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1233,
+                        "y": 2322,
+                        "width": 1397,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_delivered_to_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 497,
+                        "y": 2387,
+                        "width": 461,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_delivered_to_phone#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1246,
+                        "y": 2382,
+                        "width": 1919,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_delivered_to_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2623,
+                        "y": 2446,
+                        "width": 31,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_delivered_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1347,
+                        "y": 2504,
+                        "width": 114,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_pay_hours_from",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1567,
+                        "y": 2506,
+                        "width": 122,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_pay_hours_to",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2173,
+                        "y": 2499,
+                        "width": 697,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_pay_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 913,
+                        "y": 2791,
+                        "width": 339,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_security_deposit",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2419,
+                        "y": 2959,
+                        "width": 33,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_personal_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2847,
+                        "y": 2958,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_money_order",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 3008,
+                        "width": 30,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_cashier_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 809,
+                        "y": 3008,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_through_escrow",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2308,
+                        "y": 3008,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_other_method",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2483,
+                        "y": 3007,
+                        "width": 703,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_paid_by_other_method",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 936,
+                        "y": 3058,
+                        "width": 28,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_transfer_to_owner",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2243,
+                        "y": 3056,
+                        "width": 29,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "security_deposit_held_in_owner_broker_account",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1431,
+                        "y": 4102,
+                        "width": 250,
+                        "height": 82
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1696,
+                        "y": 4101,
+                        "width": 248,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2473,
+                        "y": 4101,
+                        "width": 255,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2744,
+                        "y": 4102,
+                        "width": 247,
+                        "height": 82
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 715,
+                        "y": 2651,
+                        "width": 31,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_payment_via_cashier_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3000,
+                        "y": 2600,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "rent_payment_via_money_order",
+                        "tag": "checkbox"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RLAS_1.png1272119"
+    ]
+}

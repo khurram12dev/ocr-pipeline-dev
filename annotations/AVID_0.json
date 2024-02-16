@@ -1,0 +1,199 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "AVID_1"
+        }
+    },
+    "_via_img_metadata": {
+        "AVID_1.png": {
+            "filename": "AVID_1.png",
+            "size": 1121328,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2199,
+                        "y": 551,
+                        "width": 978,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "city",
+                        "tag":"blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 449,
+                        "y": 626,
+                        "width": 1000,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "Radio": "county",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 187,
+                        "y": 713,
+                        "width": 2689,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "Radio": "address_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3030,
+                        "y": 818,
+                        "width": 36,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "only_unit_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 210,
+                        "y": 817,
+                        "width": 37,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "duplex_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 365,
+                        "y": 868,
+                        "width": 166,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "only_unit_text",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1619,
+                        "y": 938,
+                        "width": 1582,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "firm_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2437,
+                        "y": 4121,
+                        "width": 219,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_initial_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2674,
+                        "y": 4125,
+                        "width": 225,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_initial_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2268,
+                        "y": 630,
+                        "width": 909,
+                        "height": 67
+                    },
+                    "region_attributes": {
+                        "Radio": "address_1",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "options": {
+                    "city": "",
+                    "county": "",
+                    "address": "",
+                    "duplex_check": "",
+                    "only_unit_check": "",
+                    "only_unit_text": "",
+                    "firm_name": "",
+                    "buyer_initial_1": "",
+                    "buyer_initial_2": ""
+                },
+                "default_options": {}
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "AVID_1.png"
+    ]
+}

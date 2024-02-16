@@ -1,0 +1,294 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RLAS_5"
+        }
+    },
+    "_via_img_metadata": {
+        "RLAS_5.png1236495": {
+            "filename": "RLAS_5.png",
+            "size": 1236495,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 368,
+                        "y": 1106,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_liability_insurance",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1893,
+                        "y": 1105,
+                        "width": 606,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_liability_insurance_not_less_than",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1136,
+                        "y": 1455,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "portable_dishwasher",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1662,
+                        "y": 1454,
+                        "width": 32,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "portable_washing_machine",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 291,
+                        "y": 1825,
+                        "width": 1492,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_notice_4",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1847,
+                        "y": 1823,
+                        "width": 1354,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_notice_4",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 285,
+                        "y": 1682,
+                        "width": 1488,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_notice_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 288,
+                        "y": 1754,
+                        "width": 1489,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_notice_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 704,
+                        "y": 1605,
+                        "width": 1060,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_notice_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2032,
+                        "y": 1605,
+                        "width": 1174,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_notice_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1842,
+                        "y": 1683,
+                        "width": 1362,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_notice_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1847,
+                        "y": 1752,
+                        "width": 1354,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_notice_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2516,
+                        "y": 2842,
+                        "width": 166,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "attorny_fees",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 3043,
+                        "width": 36,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "mold_and_dampness",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 405,
+                        "y": 3196,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "lead_based_paint",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 3497,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "periodic_pest_control2",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 3397,
+                        "width": 29,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "periodic_pest_control1",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 3545,
+                        "width": 34,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "methamphetamine_contamination",
+                        "tag": "checkbox"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RLAS_5.png1236495"
+    ]
+}

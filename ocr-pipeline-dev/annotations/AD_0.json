@@ -1,0 +1,227 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "AD_1"
+        }
+    },
+    "_via_img_metadata": {
+        "AD_1.png": {
+            "filename": "AD_1.png",
+            "size": 1090272,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1861,
+                        "y": 3468,
+                        "width": 736,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2722,
+                        "y": 3472,
+                        "width": 477,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2720,
+                        "y": 3587,
+                        "width": 482,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1852,
+                        "y": 3566,
+                        "width": 744,
+                        "height": 72
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 342,
+                        "y": 3694,
+                        "width": 2067,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "agent_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2663,
+                        "y": 3695,
+                        "width": 542,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "agent_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2713,
+                        "y": 3802,
+                        "width": 488,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "by_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2038,
+                        "y": 3804,
+                        "width": 547,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "by_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 207,
+                        "y": 550,
+                        "width": 35,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "civil_code_section",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 272,
+                        "y": 3802,
+                        "width": 825,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "by_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 863,
+                        "y": 3438,
+                        "width": 995,
+                        "height": 90
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 860,
+                        "y": 3555,
+                        "width": 989,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_seller2_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1102,
+                        "y": 3809,
+                        "width": 682,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "by_name",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "AD_1.png"
+    ]
+}

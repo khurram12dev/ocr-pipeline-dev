@@ -1,0 +1,775 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RLAS_2"
+        }
+    },
+    "_via_img_metadata": {
+        "RLAS_2.png1224310": {
+            "filename": "RLAS_2.png",
+            "size": 1224310,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 963,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "parking_check_A",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1166,
+                        "y": 955,
+                        "width": 2043,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "Radio": "parking_A_permitted_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 480,
+                        "y": 1010,
+                        "width": 2705,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "parking_A_permitted_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 313,
+                        "y": 1369,
+                        "width": 28,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "parking_check_B",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1110,
+                        "y": 1445,
+                        "width": 2084,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "storage_permitted",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1063,
+                        "y": 1519,
+                        "width": 29,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "separate_storage_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1179,
+                        "y": 1518,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "separate_storage_not_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1317,
+                        "y": 1569,
+                        "width": 196,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "storage_fees_rent",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2246,
+                        "y": 1819,
+                        "width": 951,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "utilities_charges",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 470,
+                        "y": 1875,
+                        "width": 776,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "utilities_charges_except",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2333,
+                        "y": 1875,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "utilities_agreed_on_separate_addendum",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 2075,
+                        "width": 32,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "water_submeters",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 2170,
+                        "width": 33,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "gas_meters",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 2224,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "electric_meter",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 2439,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_checkA",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 2509,
+                        "width": 29,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_checkB",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 476,
+                        "y": 2564,
+                        "width": 2699,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_B_exceptions_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2661,
+                        "y": 2486,
+                        "width": 541,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_B_exceptions_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 2626,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_check_C",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 309,
+                        "y": 2725,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_check_D",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2358,
+                        "y": 2724,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_checkD_within_3_days",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 759,
+                        "y": 2777,
+                        "width": 30,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_checkD_prior_to_commencement_date",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1565,
+                        "y": 2776,
+                        "width": 35,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_checkD_within_3_days_after_commencement_date",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1623,
+                        "y": 2825,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_return_MII_after_3_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1675,
+                        "y": 2821,
+                        "width": 163,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_return_MII_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2955,
+                        "y": 2922,
+                        "width": 33,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_check_E_more_than_3_days",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 2925,
+                        "width": 29,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_check_E",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3009,
+                        "y": 2915,
+                        "width": 168,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_damaged_items_provide_list_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 311,
+                        "y": 3073,
+                        "width": 30,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_check_F",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 621,
+                        "y": 3066,
+                        "width": 2545,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "condition_of_premises_other",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 413,
+                        "y": 3865,
+                        "width": 29,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_D_housing_provider",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 848,
+                        "y": 3756,
+                        "width": 32,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_C_tenant",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1065,
+                        "y": 3753,
+                        "width": 29,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_C_HOA",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 402,
+                        "y": 3803,
+                        "width": 2778,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_C_except_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1378,
+                        "y": 3856,
+                        "width": 1824,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_D_shall_maintain",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 412,
+                        "y": 3642,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_B_housing_provider",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 849,
+                        "y": 3864,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_D_tenant",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1073,
+                        "y": 3643,
+                        "width": 34,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_B_HOA",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2613,
+                        "y": 3633,
+                        "width": 595,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_B_except_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 402,
+                        "y": 3916,
+                        "width": 2778,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_D_housing_provider",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 409,
+                        "y": 3752,
+                        "width": 33,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_C_housing_provider",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 856,
+                        "y": 3640,
+                        "width": 29,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "meintenance_B_tenant",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2628,
+                        "y": 3747,
+                        "width": 577,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_C_except_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 393,
+                        "y": 3694,
+                        "width": 2788,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "maintenance_B_except_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2254,
+                        "y": 409,
+                        "width": 30,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "late_charged_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2302,
+                        "y": 409,
+                        "width": 137,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "late_charged_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2498,
+                        "y": 452,
+                        "width": 366,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "late_charged_fees",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2924,
+                        "y": 457,
+                        "width": 173,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "late_charged_percentage",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1694,
+                        "y": 4116,
+                        "width": 249,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1429,
+                        "y": 4117,
+                        "width": 249,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2743,
+                        "y": 4112,
+                        "width": 246,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2481,
+                        "y": 4111,
+                        "width": 245,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_initials",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 941,
+                        "y": 1069,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "right_to_parking_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1050,
+                        "y": 1069,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "right_to_parking_not_included",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1419,
+                        "y": 1114,
+                        "width": 192,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "parking_fee",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RLAS_2.png1224310"
+    ]
+}

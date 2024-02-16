@@ -1,0 +1,112 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RLAS_4"
+        }
+    },
+    "_via_img_metadata": {
+        "RLAS_4.png1360499": {
+            "filename": "RLAS_4.png",
+            "size": 1360499,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 411,
+                        "y": 1060,
+                        "width": 31,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_authorizes_the_sue_of_keysafe",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1062,
+                        "y": 2308,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "prohibition_does_not_apply_to_vacation",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 377,
+                        "y": 2939,
+                        "width": 2805,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_obligation_upon_vacating_premises_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1766,
+                        "y": 2879,
+                        "width": 1432,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_obligation_upon_vacating_premises_1",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RLAS_4.png1360499"
+    ]
+}

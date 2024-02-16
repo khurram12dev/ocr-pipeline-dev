@@ -1,0 +1,862 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "SPQ_4"
+        }
+    },
+    "_via_img_metadata": {
+        "SPQ_4.png": {
+            "filename": "SPQ_4.png",
+            "size": 984772,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 129,
+                        "width": 2577,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "p4_property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 263,
+                        "width": 30,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "issue_with_neighbour_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 260,
+                        "width": 37,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "issue_with_neighbour_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2877,
+                        "y": 638,
+                        "width": 38,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "on_going_commitment_1",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3058,
+                        "y": 635,
+                        "width": 38,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "on_going_commitment_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2881,
+                        "y": 747,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "pending_rent_of_property_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3065,
+                        "y": 747,
+                        "width": 28,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "pending_rent_of_property_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2881,
+                        "y": 801,
+                        "width": 32,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "contemplated_building_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 803,
+                        "width": 35,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "contemplated_building_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2881,
+                        "y": 915,
+                        "width": 29,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "current_bond_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3066,
+                        "y": 914,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "current_bond_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2873,
+                        "y": 1023,
+                        "width": 34,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "proposed_construction_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1024,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "proposed_construction_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 1194,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "exsistance_goverment_requirement_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3063,
+                        "y": 1191,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "exsistance_goverment_requirement_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 1248,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "protected_habitat_for_plant_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3062,
+                        "y": 1246,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "protected_habitat_for_plant_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2882,
+                        "y": 1302,
+                        "width": 28,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "historically_designated_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1298,
+                        "width": 35,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "historically_designated_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2874,
+                        "y": 1409,
+                        "width": 37,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "water_surcharge_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3066,
+                        "y": 1412,
+                        "width": 32,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "water_surcharge_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2879,
+                        "y": 1526,
+                        "width": 33,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "difference_between_city_postal_code_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3059,
+                        "y": 1521,
+                        "width": 39,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "difference_between_city_postal_code_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 615,
+                        "y": 1572,
+                        "width": 2572,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "17_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 615,
+                        "y": 2112,
+                        "width": 2579,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "18_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 344,
+                        "y": 2723,
+                        "width": 2149,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2613,
+                        "y": 2758,
+                        "width": 549,
+                        "height": 73
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_date1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 334,
+                        "y": 2834,
+                        "width": 2152,
+                        "height": 85
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2616,
+                        "y": 2846,
+                        "width": 555,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_date2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 394,
+                        "y": 3146,
+                        "width": 2057,
+                        "height": 73
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2611,
+                        "y": 3124,
+                        "width": 564,
+                        "height": 99
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_date1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 360,
+                        "y": 3247,
+                        "width": 2089,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2612,
+                        "y": 3220,
+                        "width": 562,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_date2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2871,
+                        "y": 1836,
+                        "width": 44,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "occupant_of_smoking_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 1832,
+                        "width": 39,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "occupant_of_smoking_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2876,
+                        "y": 1944,
+                        "width": 39,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "use_of_property_for_modification_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3066,
+                        "y": 1947,
+                        "width": 35,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "use_of_property_for_modification_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2876,
+                        "y": 2056,
+                        "width": 33,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "material_fact_yes",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3061,
+                        "y": 2054,
+                        "width": 38,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "material_fact_no",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 605,
+                        "y": 323,
+                        "width": 2587,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "16_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 303,
+                        "y": 2326,
+                        "width": 41,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "additional_information",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 292,
+                        "y": 381,
+                        "width": 2894,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "16_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 295,
+                        "y": 455,
+                        "width": 2919,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "16_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 1636,
+                        "width": 2882,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "17_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 300,
+                        "y": 1704,
+                        "width": 2887,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "17_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 2172,
+                        "width": 2887,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "18_explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 300,
+                        "y": 2251,
+                        "width": 2892,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "18_explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 410,
+                        "y": 260,
+                        "width": 2453,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "16_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 823,
+                        "y": 625,
+                        "width": 2030,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "17_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1006,
+                        "y": 739,
+                        "width": 1845,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "17_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2406,
+                        "y": 793,
+                        "width": 447,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "17_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 407,
+                        "y": 902,
+                        "width": 2429,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "17_D_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 808,
+                        "y": 1019,
+                        "width": 2053,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "17_E_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2932,
+                        "y": 1136,
+                        "width": 267,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "17_F_explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2579,
+                        "y": 1245,
+                        "width": 280,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "17_G_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2602,
+                        "y": 1296,
+                        "width": 244,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "17_H",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1273,
+                        "y": 1410,
+                        "width": 1588,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "17_I_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 414,
+                        "y": 1522,
+                        "width": 2447,
+                        "height": 36
+                    },
+                    "region_attributes": {
+                        "Radio": "17_J_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2826,
+                        "y": 1843,
+                        "width": 32,
+                        "height": 24
+                    },
+                    "region_attributes": {
+                        "Radio": "18_A_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1143,
+                        "y": 1945,
+                        "width": 1705,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "18_B_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 828,
+                        "y": 2045,
+                        "width": 2023,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "18_C_explanation",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 401,
+                        "y": 1189,
+                        "width": 2457,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "17_F_explanation_2",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio"
+            },
+            "tag": {
+                "type": "Radio"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "SPQ_4.png"
+    ]
+}

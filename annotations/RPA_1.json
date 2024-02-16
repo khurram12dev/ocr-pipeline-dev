@@ -1,0 +1,695 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RPA_2"
+        }
+    },
+    "_via_img_metadata": {
+        "RPA_2.png": {
+            "filename": "RPA_2.png",
+            "size": 1138782,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1494,
+                        "y": 357,
+                        "width": 34,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "G1_seller_credit",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1560,
+                        "y": 346,
+                        "width": 320,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "G1_seller_credit_amount",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1909,
+                        "y": 348,
+                        "width": 120,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "G1_seller_credit_percentage",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2825,
+                        "y": 399,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "G1_seller_credit_or",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2478,
+                        "y": 442,
+                        "width": 695,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "G1_seller_credit_other",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 772,
+                        "width": 32,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "H1_verification_of_all_cash",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2086,
+                        "y": 765,
+                        "width": 132,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "H1_verification_of_all_cash_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 895,
+                        "width": 29,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "H2_verification_of_down_payment",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2093,
+                        "y": 884,
+                        "width": 126,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "H2_verification_of_down_payment_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1952,
+                        "y": 1015,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "H3_verification_of_loan_application",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2088,
+                        "y": 1009,
+                        "width": 128,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "H3_verification_of_loan_application_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1589,
+                        "y": 1224,
+                        "width": 127,
+                        "height": 37
+                    },
+                    "region_attributes": {
+                        "Radio": "J_final_verification_of_condition",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 1293,
+                        "width": 127,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "K_assignment_request",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1610,
+                        "y": 1448,
+                        "width": 131,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "L1_loan_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1612,
+                        "y": 1525,
+                        "width": 128,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "L2_appraisal_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2481,
+                        "y": 1455,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "L1_no_loan_contingency",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2482,
+                        "y": 1532,
+                        "width": 30,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "L2_no_appraisal_contingency",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 701,
+                        "y": 1691,
+                        "width": 29,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "L2_appraisal",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 772,
+                        "y": 1680,
+                        "width": 526,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "L2_appraisal_purchase_price",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 1754,
+                        "width": 130,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "L3_investigation_of_property",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1618,
+                        "y": 1829,
+                        "width": 126,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "L3_informational_access_to_property",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1616,
+                        "y": 2025,
+                        "width": 123,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "L4_review_of_seller_documents",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1613,
+                        "y": 2151,
+                        "width": 127,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "L5_preliminary_report",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1615,
+                        "y": 2275,
+                        "width": 127,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "L6_common_interest_disclosures",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1616,
+                        "y": 2463,
+                        "width": 123,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "L7_review_of_leased_or_liened_items",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2654,
+                        "y": 2429,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "CR_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2582,
+                        "y": 2646,
+                        "width": 33,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Radio": "CAR_form_COP_attached",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1676,
+                        "y": 2848,
+                        "width": 32,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "M1_time_of_possession_am",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1533,
+                        "y": 2850,
+                        "width": 130,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "M1_time_of_possession",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1802,
+                        "y": 2849,
+                        "width": 30,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "M1_time_of_possession_PM",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1506,
+                        "y": 3017,
+                        "width": 30,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "M2_seller_occupied_29_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1546,
+                        "y": 3016,
+                        "width": 108,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "M2_seller_occupied_29_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1506,
+                        "y": 3060,
+                        "width": 29,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "M2_seller_occupied_30_days_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1543,
+                        "y": 3061,
+                        "width": 110,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "M2_seller_occupied_30_days",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2111,
+                        "y": 2806,
+                        "width": 34,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "M1_time_of_possession_OR1",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1593,
+                        "y": 3461,
+                        "width": 122,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "N1_seller_delivery_of_documents",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1595,
+                        "y": 3542,
+                        "width": 120,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "N2_sign_and_return_escrow_holder",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1589,
+                        "y": 3666,
+                        "width": 126,
+                        "height": 38
+                    },
+                    "region_attributes": {
+                        "Radio": "N3_ordering_hoa_documents",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1593,
+                        "y": 3780,
+                        "width": 124,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "N4_install_smoke_alarm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 705,
+                        "y": 655,
+                        "width": 28,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "G3_obligation_of_buyer",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 392,
+                        "y": 566,
+                        "width": 2789,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "G2_additional_financal_terms_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2481,
+                        "y": 1017,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "H3_prequalification",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2483,
+                        "y": 1072,
+                        "width": 30,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "H3_underwritten_preapproval",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2839,
+                        "y": 1017,
+                        "width": 32,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "H3_preapproval",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1496,
+                        "y": 3139,
+                        "width": 29,
+                        "height": 28
+                    },
+                    "region_attributes": {
+                        "Radio": "M3_tenant_occupied",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 611,
+                        "y": 123,
+                        "width": 2013,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "p2_property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2750,
+                        "y": 111,
+                        "width": 436,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "main_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1495,
+                        "y": 2850,
+                        "width": 30,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "M1_time_of_possession_OR2",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1070,
+                        "y": 511,
+                        "width": 2113,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "G2_additional_financal_terms_1",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RPA_2.png"
+    ]
+}

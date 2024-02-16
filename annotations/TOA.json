@@ -1,0 +1,658 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "TOA_1"
+        }
+    },
+    "_via_img_metadata": {
+        "TOA_1.png": {
+            "filename": "TOA_1.png",
+            "size": 874617,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2706,
+                        "y": 184,
+                        "width": 307,
+                        "height": 81
+                    },
+                    "region_attributes": {
+                        "Radio": "addendum_no",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1676,
+                        "y": 597,
+                        "width": 1522,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 203,
+                        "y": 682,
+                        "width": 2714,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "pproperty_address_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 398,
+                        "y": 741,
+                        "width": 2222,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 802,
+                        "width": 2311,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 358,
+                        "y": 3042,
+                        "width": 1151,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 366,
+                        "y": 3161,
+                        "width": 1145,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer3_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 364,
+                        "y": 3263,
+                        "width": 1143,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller3_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 363,
+                        "y": 3379,
+                        "width": 1151,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "Radio": "seller3_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2850,
+                        "y": 3027,
+                        "width": 355,
+                        "height": 116
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2846,
+                        "y": 3162,
+                        "width": 360,
+                        "height": 89
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer3_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2853,
+                        "y": 3266,
+                        "width": 347,
+                        "height": 92
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2858,
+                        "y": 3371,
+                        "width": 342,
+                        "height": 95
+                    },
+                    "region_attributes": {
+                        "Radio": "seller3_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1517,
+                        "y": 3044,
+                        "width": 1169,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1517,
+                        "y": 3161,
+                        "width": 1169,
+                        "height": 86
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1517,
+                        "y": 3260,
+                        "width": 1171,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1525,
+                        "y": 3375,
+                        "width": 1166,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "Radio": "seller3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 2758,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_29",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 888,
+                        "width": 3007,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 958,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 1029,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 1094,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_4",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 1159,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_5",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 1230,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_6",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 1295,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_7",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 1360,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_8",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 1427,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_9",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 202,
+                        "y": 1492,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_10",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 1560,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_11",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 1627,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_12",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 194,
+                        "y": 1694,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_13",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 1759,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_14",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 1828,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_15",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 1893,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_16",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 194,
+                        "y": 1960,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_17",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 192,
+                        "y": 2027,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_18",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 190,
+                        "y": 2094,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_19",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 194,
+                        "y": 2159,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_20",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 194,
+                        "y": 2228,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_21",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 2293,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_22",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 2360,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_23",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 2427,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_24",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 196,
+                        "y": 2494,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_25",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 2559,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_26",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 2626,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_27",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 200,
+                        "y": 2691,
+                        "width": 3007,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "explanation_28",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "TOA_1.png"
+    ]
+}

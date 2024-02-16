@@ -1,0 +1,307 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "DBD_0"
+        }
+    },
+    "_via_img_metadata": {
+        "DBD_0.png732225": {
+            "filename": "DBD_0.png",
+            "size": 732225,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2316,
+                        "y": 706,
+                        "width": 41,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "Residential_purchase_agreement",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 198,
+                        "y": 784,
+                        "width": 46,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "Residential_lease_or_month_to_month_rental_agreement",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1861,
+                        "y": 784,
+                        "width": 41,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "other_condition",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 193,
+                        "y": 847,
+                        "width": 2356,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "other_condition_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2068,
+                        "y": 770,
+                        "width": 1133,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "other_condition_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2767,
+                        "y": 850,
+                        "width": 412,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "property_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 800,
+                        "y": 925,
+                        "width": 2385,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 419,
+                        "y": 1012,
+                        "width": 2014,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 1077,
+                        "width": 1830,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 539,
+                        "y": 1884,
+                        "width": 2112,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2801,
+                        "y": 1884,
+                        "width": 407,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 542,
+                        "y": 1758,
+                        "width": 2112,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2797,
+                        "y": 1761,
+                        "width": 406,
+                        "height": 96
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1977,
+                        "y": 2168,
+                        "width": 671,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 787,
+                        "y": 2016,
+                        "width": 883,
+                        "height": 141
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 789,
+                        "y": 2159,
+                        "width": 883,
+                        "height": 110
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2793,
+                        "y": 2161,
+                        "width": 412,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1990,
+                        "y": 2035,
+                        "width": 671,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2793,
+                        "y": 2034,
+                        "width": 401,
+                        "height": 104
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_housing_provider1_date",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "DBD_0.png732225"
+    ]
+}

@@ -1,0 +1,164 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RCJC_2"
+        }
+    },
+    "_via_img_metadata": {
+        "RCJC_2.png1213024": {
+            "filename": "RCJC_2.png",
+            "size": 1213024,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2755,
+                        "y": 3052,
+                        "width": 457,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_data\n",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2757,
+                        "y": 2974,
+                        "width": 450,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_data",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 666,
+                        "y": 2968,
+                        "width": 1959,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 666,
+                        "y": 3046,
+                        "width": 1959,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 917,
+                        "y": 3262,
+                        "width": 1700,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2756,
+                        "y": 3263,
+                        "width": 456,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 920,
+                        "y": 3185,
+                        "width": 1700,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2757,
+                        "y": 3175,
+                        "width": 457,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_date",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RCJC_2.png1213024"
+    ]
+}

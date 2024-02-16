@@ -1,0 +1,888 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RPA_16"
+        }
+    },
+    "_via_img_metadata": {
+        "RPA_16.png1250280": {
+            "filename": "RPA_16.png",
+            "size": 997552,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 927,
+                        "y": 910,
+                        "width": 1483,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2538,
+                        "y": 915,
+                        "width": 622,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_lic_#1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 460,
+                        "y": 994,
+                        "width": 855,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_signature1",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2044,
+                        "y": 993,
+                        "width": 496,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_lic_#2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2652,
+                        "y": 994,
+                        "width": 503,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "p2_buyer_date1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 459,
+                        "y": 1066,
+                        "width": 750,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_signature2",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2044,
+                        "y": 1066,
+                        "width": 496,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_lic_#_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2653,
+                        "y": 1073,
+                        "width": 502,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "p2_buyer_date2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 592,
+                        "y": 1149,
+                        "width": 1038,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 534,
+                        "y": 1224,
+                        "width": 1695,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2427,
+                        "y": 1232,
+                        "width": 735,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_phone_#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1732,
+                        "y": 1148,
+                        "width": 733,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2606,
+                        "y": 1160,
+                        "width": 169,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 401,
+                        "y": 1327,
+                        "width": 36,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_more_than_one_agent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 401,
+                        "y": 1381,
+                        "width": 34,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_more_than_one_brokerage_firm",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 505,
+                        "y": 1561,
+                        "width": 31,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_email_above",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 864,
+                        "y": 1562,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_Radio_to_phone",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1433,
+                        "y": 1562,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_alternate",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1700,
+                        "y": 1546,
+                        "width": 1450,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_comments",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 909,
+                        "y": 1650,
+                        "width": 1507,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2537,
+                        "y": 1649,
+                        "width": 624,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_lic_#1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 460,
+                        "y": 1718,
+                        "width": 838,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_signature1\n",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2041,
+                        "y": 1724,
+                        "width": 497,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_lic_#2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2645,
+                        "y": 1721,
+                        "width": 512,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "p2_seller_date1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 460,
+                        "y": 1791,
+                        "width": 841,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_signature2",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2040,
+                        "y": 1800,
+                        "width": 499,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_lic_#3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2648,
+                        "y": 1796,
+                        "width": 476,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Radio": "p2_seller_date2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 597,
+                        "y": 1879,
+                        "width": 1026,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1734,
+                        "y": 1885,
+                        "width": 723,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2593,
+                        "y": 1883,
+                        "width": 179,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2861,
+                        "y": 1880,
+                        "width": 284,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 531,
+                        "y": 1957,
+                        "width": 1695,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2424,
+                        "y": 1950,
+                        "width": 749,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_phone_#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 401,
+                        "y": 2054,
+                        "width": 36,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_more_than_one_agent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 401,
+                        "y": 2109,
+                        "width": 36,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_more_than_one_brokerage_firm",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 505,
+                        "y": 2290,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_email_above",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 864,
+                        "y": 2290,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_Radio_to_phone",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1433,
+                        "y": 2289,
+                        "width": 30,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_alternate",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1704,
+                        "y": 2277,
+                        "width": 1457,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_comments",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1955,
+                        "y": 2508,
+                        "width": 36,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_holder_acknowledgment_checked",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2601,
+                        "y": 2492,
+                        "width": 337,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_holder_acknowledgment_amount",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 584,
+                        "y": 2560,
+                        "width": 798,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "counter_offer_numbers",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1488,
+                        "y": 2563,
+                        "width": 566,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "counter_offer_numbers_and",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 875,
+                        "y": 2699,
+                        "width": 874,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_holder_is_advised_by",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2811,
+                        "y": 2692,
+                        "width": 343,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "date_of_acceptance_of_the_agreement",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 581,
+                        "y": 2774,
+                        "width": 1680,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_holder",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2482,
+                        "y": 2767,
+                        "width": 668,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_number",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2870,
+                        "y": 1145,
+                        "width": 299,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 310,
+                        "y": 2860,
+                        "width": 1164,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2653,
+                        "y": 2857,
+                        "width": 509,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_by_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 438,
+                        "y": 2926,
+                        "width": 2722,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 644,
+                        "y": 2997,
+                        "width": 2523,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "phone",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1352,
+                        "y": 3082,
+                        "width": 508,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_holder_license_number_#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 252,
+                        "y": 3161,
+                        "width": 33,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "department_of_financial_protection",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1426,
+                        "y": 3160,
+                        "width": 34,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "department_of_insurance",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2049,
+                        "y": 3161,
+                        "width": 34,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "department_of_real_estate",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1477,
+                        "y": 2857,
+                        "width": 1064,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "escrow_signature_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1322,
+                        "y": 985,
+                        "width": 608,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_signature_name1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1215,
+                        "y": 1069,
+                        "width": 718,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_signature_name2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1302,
+                        "y": 1724,
+                        "width": 628,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_signature_name1\n",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1305,
+                        "y": 1791,
+                        "width": 623,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_signature_name2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 929,
+                        "y": 3307,
+                        "width": 223,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_initial_presented_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1169,
+                        "y": 3312,
+                        "width": 198,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_initial_presented_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2594,
+                        "y": 3309,
+                        "width": 395,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_presented_offer_date",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio"
+            },
+            "tag": {
+                "type": "Radio"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RPA_16.png1250280"
+    ]
+}

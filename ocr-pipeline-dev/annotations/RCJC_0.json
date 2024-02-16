@@ -1,0 +1,125 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RCJC_1"
+        }
+    },
+    "_via_img_metadata": {
+        "RCJC_1.png1082736": {
+            "filename": "RCJC_1.png",
+            "size": 1082736,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 811,
+                        "y": 631,
+                        "width": 346,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "rental_agreement_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1716,
+                        "y": 635,
+                        "width": 1481,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 407,
+                        "y": 712,
+                        "width": 2175,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 297,
+                        "y": 785,
+                        "width": 2025,
+                        "height": 60
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 333,
+                        "y": 2194,
+                        "width": 36,
+                        "height": 41
+                    },
+                    "region_attributes": {
+                        "Radio": "notice_of_exemption",
+                        "tag": "checkbox"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RCJC_1.png1082736"
+    ]
+}

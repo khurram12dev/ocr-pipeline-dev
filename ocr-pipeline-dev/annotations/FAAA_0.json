@@ -1,0 +1,308 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "FAAA"
+        }
+    },
+    "_via_img_metadata": {
+        "FAAA.png1142018": {
+            "filename": "FAAA.png",
+            "size": 689848,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 3003,
+                        "y": 595,
+                        "width": 34,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "text": "purchase_agreement_or",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 192,
+                        "y": 656,
+                        "width": 2632,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "text": "purchase_agreement_other",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 356,
+                        "y": 732,
+                        "width": 364,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "text": "property_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1279,
+                        "y": 730,
+                        "width": 1619,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "text": "property_know_as",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 817,
+                        "width": 2182,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "text": "seller_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 295,
+                        "y": 887,
+                        "width": 2276,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "text": "buyer_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 357,
+                        "y": 1961,
+                        "width": 2222,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "text": "buyer1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 357,
+                        "y": 1961,
+                        "width": 2222,
+                        "height": 65
+                    },
+                    "region_attributes": {
+                        "text": "buyer1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 354,
+                        "y": 2050,
+                        "width": 2202,
+                        "height": 79
+                    },
+                    "region_attributes": {
+                        "text": "buyer2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 354,
+                        "y": 2050,
+                        "width": 2202,
+                        "height": 79
+                    },
+                    "region_attributes": {
+                        "text": "buyer2_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 349,
+                        "y": 2179,
+                        "width": 2197,
+                        "height": 81
+                    },
+                    "region_attributes": {
+                        "text": "seller1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 349,
+                        "y": 2179,
+                        "width": 2197,
+                        "height": 81
+                    },
+                    "region_attributes": {
+                        "text": "seller1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2734,
+                        "y": 1974,
+                        "width": 483,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "text": "buyer1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2729,
+                        "y": 2075,
+                        "width": 481,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "text": "buyer2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2725,
+                        "y": 2204,
+                        "width": 488,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "text": "seller1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2733,
+                        "y": 2313,
+                        "width": 477,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "text": "seller2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 349,
+                        "y": 2289,
+                        "width": 2197,
+                        "height": 76
+                    },
+                    "region_attributes": {
+                        "text": "seller2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 349,
+                        "y": 2289,
+                        "width": 2197,
+                        "height": 76
+                    },
+                    "region_attributes": {
+                        "text": "seller2_signature",
+                        "tag": "signature"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "options": {
+                    "purchase_agreement_or": "",
+                    "purchase_agreement_other": "",
+                    "date": "",
+                    "property_know_as": "",
+                    "seller_referred": "",
+                    "buyer-referred": "",
+                    "buyer_1": "",
+                    "date_1": "",
+                    "buyer_2": "",
+                    "date_2": "",
+                    "seller_1": "",
+                    "date_3": "",
+                    "seller_2": "",
+                    "date_4": ""
+                },
+                "default_options": {}
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "FAAA.png1142018"
+    ]
+}

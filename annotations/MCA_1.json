@@ -1,0 +1,190 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "Radio",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "MCA_1"
+        }
+    },
+    "_via_img_metadata": {
+        "MCA_1.png943803": {
+            "filename": "MCA_1.png",
+            "size": 943803,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 374,
+                        "y": 2096,
+                        "width": 2123,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2645,
+                        "y": 2101,
+                        "width": 560,
+                        "height": 88
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 374,
+                        "y": 2202,
+                        "width": 2119,
+                        "height": 91
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2641,
+                        "y": 2209,
+                        "width": 559,
+                        "height": 84
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 368,
+                        "y": 2323,
+                        "width": 781,
+                        "height": 111
+                    },
+                    "region_attributes": {
+                        "Radio": "seller1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1466,
+                        "y": 2363,
+                        "width": 1033,
+                        "height": 69
+                    },
+                    "region_attributes": {
+                        "Radio": "seller1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 374,
+                        "y": 2447,
+                        "width": 774,
+                        "height": 88
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1471,
+                        "y": 2463,
+                        "width": 1025,
+                        "height": 72
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2640,
+                        "y": 2352,
+                        "width": 568,
+                        "height": 80
+                    },
+                    "region_attributes": {
+                        "Radio": "seller1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2636,
+                        "y": 2455,
+                        "width": 570,
+                        "height": 80
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2_date",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "MCA_1.png943803"
+    ]
+}

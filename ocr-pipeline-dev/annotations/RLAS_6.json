@@ -1,0 +1,1126 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "RLAS_7"
+        }
+    },
+    "_via_img_metadata": {
+        "RLAS_7.png990927": {
+            "filename": "RLAS_7.png",
+            "size": 990927,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 468,
+                        "y": 113,
+                        "width": 2172,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2788,
+                        "y": 113,
+                        "width": 419,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Radio": "main_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 303,
+                        "y": 271,
+                        "width": 32,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_brokerage_firm",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 327,
+                        "width": 30,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_brokerage_firm",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 306,
+                        "y": 381,
+                        "width": 31,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "property_management_firm",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1861,
+                        "y": 263,
+                        "width": 1342,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1611,
+                        "y": 329,
+                        "width": 1592,
+                        "height": 35
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1169,
+                        "y": 439,
+                        "width": 1343,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "real_estate_broker",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2754,
+                        "y": 443,
+                        "width": 452,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "real_estate_broker_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 543,
+                        "y": 507,
+                        "width": 1979,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "real_estate_by_agent",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2753,
+                        "y": 507,
+                        "width": 455,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "real_estate_by_agent_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 493,
+                        "y": 574,
+                        "width": 1913,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2696,
+                        "y": 570,
+                        "width": 508,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "telephone#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2187,
+                        "y": 2806,
+                        "width": 562,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_name_legally_authorized_signer2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2189,
+                        "y": 1360,
+                        "width": 558,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_name_legally_authorized_signer2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2967,
+                        "y": 1516,
+                        "width": 229,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_trust_full_name_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 494,
+                        "y": 1570,
+                        "width": 2685,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_trust_full_name_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 629,
+                        "y": 2029,
+                        "width": 2070,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2825,
+                        "y": 2032,
+                        "width": 374,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 966,
+                        "y": 2106,
+                        "width": 1798,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "pinted_name_of_tenant2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 405,
+                        "y": 2176,
+                        "width": 31,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_legally_authorized_signer_name",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1402,
+                        "y": 2167,
+                        "width": 711,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_legally_authorized_signer_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2519,
+                        "y": 2162,
+                        "width": 678,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_title",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 592,
+                        "y": 2224,
+                        "width": 1253,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1951,
+                        "y": 2232,
+                        "width": 594,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2672,
+                        "y": 2234,
+                        "width": 149,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2915,
+                        "y": 2237,
+                        "width": 285,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 632,
+                        "y": 2292,
+                        "width": 605,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_telephone",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1381,
+                        "y": 2296,
+                        "width": 619,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_Radio",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2163,
+                        "y": 2298,
+                        "width": 1034,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 630,
+                        "y": 1694,
+                        "width": 2070,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2828,
+                        "y": 1695,
+                        "width": 374,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 936,
+                        "y": 1758,
+                        "width": 2267,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "pinted_name_of_tenant1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 405,
+                        "y": 1844,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_legally_authorized_signer_name",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1413,
+                        "y": 1836,
+                        "width": 696,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_legally_authorized_signer_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2523,
+                        "y": 1828,
+                        "width": 681,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_title",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 597,
+                        "y": 1891,
+                        "width": 1253,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1957,
+                        "y": 1890,
+                        "width": 595,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 645,
+                        "y": 1958,
+                        "width": 621,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_telephone",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1386,
+                        "y": 1963,
+                        "width": 612,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_Radio",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2168,
+                        "y": 1965,
+                        "width": 1034,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2673,
+                        "y": 1906,
+                        "width": 147,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2914,
+                        "y": 1901,
+                        "width": 285,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 1117,
+                        "width": 33,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "entity_tenant",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 506,
+                        "y": 2386,
+                        "width": 31,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_more_than_two_signers",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1145,
+                        "y": 2458,
+                        "width": 32,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "agent_for_ownerr",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 2522,
+                        "width": 33,
+                        "height": 32
+                    },
+                    "region_attributes": {
+                        "Radio": "entity_housing_provider",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1628,
+                        "y": 1358,
+                        "width": 533,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_name_legally_authorized_signer1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1636,
+                        "y": 2806,
+                        "width": 525,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_name_legally_authorized_signer1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2976,
+                        "y": 2966,
+                        "width": 226,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_trust_full_name_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 498,
+                        "y": 3021,
+                        "width": 2688,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_trust_full_name_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 630,
+                        "y": 3488,
+                        "width": 2063,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2830,
+                        "y": 3155,
+                        "width": 368,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1188,
+                        "y": 3225,
+                        "width": 2016,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_printed_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 3300,
+                        "width": 33,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_legally_authorized_signer_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1402,
+                        "y": 3291,
+                        "width": 711,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_legally_authorized_signer_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2521,
+                        "y": 3293,
+                        "width": 678,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_title",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 592,
+                        "y": 3338,
+                        "width": 1258,
+                        "height": 66
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1954,
+                        "y": 3690,
+                        "width": 592,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2679,
+                        "y": 3695,
+                        "width": 142,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2913,
+                        "y": 3689,
+                        "width": 285,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 642,
+                        "y": 3753,
+                        "width": 628,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_telephpone",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1375,
+                        "y": 3760,
+                        "width": 620,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_Radio",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2167,
+                        "y": 3760,
+                        "width": 1033,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 635,
+                        "y": 3149,
+                        "width": 2061,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2826,
+                        "y": 3490,
+                        "width": 376,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1156,
+                        "y": 3551,
+                        "width": 2053,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_printed_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 404,
+                        "y": 3631,
+                        "width": 33,
+                        "height": 34
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_printed_name_of_legally_authorized_signer",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1409,
+                        "y": 3617,
+                        "width": 694,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_printed_name_of_legally_authorized_signer",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2523,
+                        "y": 3613,
+                        "width": 681,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_title",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 592,
+                        "y": 3682,
+                        "width": 1260,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1959,
+                        "y": 3354,
+                        "width": 592,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_city",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2676,
+                        "y": 3359,
+                        "width": 142,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_state",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2914,
+                        "y": 3352,
+                        "width": 277,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_zip",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 645,
+                        "y": 3419,
+                        "width": 628,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_telephpone",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1380,
+                        "y": 3414,
+                        "width": 620,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_Radio",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2162,
+                        "y": 3424,
+                        "width": 1029,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_email",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 504,
+                        "y": 3840,
+                        "width": 33,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_more_than_two_signers",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1435,
+                        "y": 4110,
+                        "width": 246,
+                        "height": 81
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_initials1",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1696,
+                        "y": 4111,
+                        "width": 259,
+                        "height": 80
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_initials2",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2476,
+                        "y": 4117,
+                        "width": 254,
+                        "height": 74
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_initials1",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2744,
+                        "y": 4114,
+                        "width": 248,
+                        "height": 76
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_initials2",
+                        "tag": "signature"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "RLAS_7.png990927"
+    ]
+}

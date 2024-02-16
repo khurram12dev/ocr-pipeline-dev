@@ -1,0 +1,746 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "AVID_2"
+        }
+    },
+    "_via_img_metadata": {
+        "AVID_2.png": {
+            "filename": "AVID_2.png",
+            "size": 664868,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1868,
+                        "y": 208,
+                        "width": 188,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "AVD_Unit",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1609,
+                        "y": 288,
+                        "width": 1635,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "Real_estate_firm_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 747,
+                        "y": 382,
+                        "width": 957,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "insception_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2231,
+                        "y": 375,
+                        "width": 966,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "weather_condition",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 811,
+                        "y": 468,
+                        "width": 2397,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "other_person_present",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1059,
+                        "y": 724,
+                        "width": 2120,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "entry_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 602,
+                        "y": 808,
+                        "width": 2576,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "entry_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 884,
+                        "width": 2568,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "entry_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 603,
+                        "y": 957,
+                        "width": 2576,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "living_room_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 602,
+                        "y": 1042,
+                        "width": 2576,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "living_room_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 603,
+                        "y": 1122,
+                        "width": 2581,
+                        "height": 42
+                    },
+                    "region_attributes": {
+                        "Radio": "living_room_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 600,
+                        "y": 1197,
+                        "width": 2583,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "dining_room_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 597,
+                        "y": 1282,
+                        "width": 2585,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "Radio": "dining_room_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 602,
+                        "y": 1352,
+                        "width": 2579,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "dining_room_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 1424,
+                        "width": 2584,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "kitchen_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 1505,
+                        "width": 2592,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "kitchen_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 1585,
+                        "width": 2583,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "kitchen_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 1651,
+                        "width": 2583,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 599,
+                        "y": 1736,
+                        "width": 2585,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 1805,
+                        "width": 2590,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1249,
+                        "y": 1895,
+                        "width": 1932,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "hall_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 600,
+                        "y": 1966,
+                        "width": 2580,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "hall_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 603,
+                        "y": 2046,
+                        "width": 2576,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "hall_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 599,
+                        "y": 2135,
+                        "width": 2581,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_1_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 2212,
+                        "width": 2585,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_1_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 2285,
+                        "width": 2594,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_1_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 2350,
+                        "width": 2580,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_2_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 600,
+                        "y": 2442,
+                        "width": 2585,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_2_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 2514,
+                        "width": 2585,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_2_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 604,
+                        "y": 2598,
+                        "width": 2580,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_3_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 602,
+                        "y": 2668,
+                        "width": 2572,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_3_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 607,
+                        "y": 2743,
+                        "width": 2575,
+                        "height": 52
+                    },
+                    "region_attributes": {
+                        "Radio": "bed_room_3_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 2824,
+                        "width": 2573,
+                        "height": 50
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_1_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 606,
+                        "y": 2902,
+                        "width": 2578,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_1_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 604,
+                        "y": 2976,
+                        "width": 2580,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_1_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 3046,
+                        "width": 2587,
+                        "height": 70
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_2_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 589,
+                        "y": 3130,
+                        "width": 2589,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_2_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 3200,
+                        "width": 2597,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_2_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 601,
+                        "y": 3278,
+                        "width": 2581,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_3_line_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 602,
+                        "y": 3358,
+                        "width": 2576,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_3_line_2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 599,
+                        "y": 3440,
+                        "width": 2586,
+                        "height": 57
+                    },
+                    "region_attributes": {
+                        "Radio": "bath_3_line_3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 594,
+                        "y": 3526,
+                        "width": 2590,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 594,
+                        "y": 3595,
+                        "width": 2593,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line2",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 593,
+                        "y": 3668,
+                        "width": 2596,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line3",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 593,
+                        "y": 3757,
+                        "width": 2591,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line4",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 604,
+                        "y": 3824,
+                        "width": 2584,
+                        "height": 61
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line5",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 598,
+                        "y": 3907,
+                        "width": 2586,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "other_room_line6",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2441,
+                        "y": 4131,
+                        "width": 212,
+                        "height": 56
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_initials_1",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2673,
+                        "y": 4133,
+                        "width": 215,
+                        "height": 53
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_initials_2",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "options": {
+                    "AVD_Unit": "",
+                    "Real_estate_firm_name": "",
+                    "insception_date": "",
+                    "weather_condition": "",
+                    "other_person_present": "",
+                    "entry_line_1": "",
+                    "entry_line_2": "",
+                    "entry_line_3": "",
+                    "living_room_line_1": "",
+                    "living_room_line_2": "",
+                    "living_room_line_3": "",
+                    "dining_room_line_1": "",
+                    "dining_room_line_2": "",
+                    "dining_room_line_3": "",
+                    "kitchen_line_1": "",
+                    "kitchen_line_2": "",
+                    "kitchen_line_3": "",
+                    "other_room_line_1": "",
+                    "other_room_line_2": "",
+                    "other_room_line_3": "",
+                    "hall_1": "",
+                    "hall_2": "",
+                    "hall_3": "",
+                    "bed_room_1_line_1": "",
+                    "bed_room_1_line_2": "",
+                    "bed_room_1_line_3": "",
+                    "bed_room_2_line_1": "",
+                    "bed_room_2_line_2": "",
+                    "bed_room_2_line_3": "",
+                    "bed_room_3_line_1": "",
+                    "bed_room_3_line_2": "",
+                    "bed_room_3_line_3": "",
+                    "bath_1_line_1": "",
+                    "bath_1_line_2": "",
+                    "bath_1_line_3": "",
+                    "bath_2_line_1": "",
+                    "bath_2_line_2": "",
+                    "bath_2_line_3": "",
+                    "bath_3_line_1": "",
+                    "bath_3_line_3": "",
+                    "other_room_line1": "",
+                    "other_room_line2": "",
+                    "other_room_line3": "",
+                    "other_room_line4": "",
+                    "other_room_line5": "",
+                    "other_room_line6": "",
+                    "buyer_initials_1": "",
+                    "buyer_initials_2": "",
+                    "bath_3_line_2": ""
+                },
+                "default_options": {}
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "AVID_2.png"
+    ]
+}

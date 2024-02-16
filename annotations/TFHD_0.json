@@ -1,0 +1,255 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "tag",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "TFHD"
+        }
+    },
+    "_via_img_metadata": {
+        "TFHD.png801088": {
+            "filename": "TFHD.png",
+            "size": 801088,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 992,
+                        "y": 719,
+                        "width": 41,
+                        "height": 39
+                    },
+                    "region_attributes": {
+                        "Radio": "residential_lease_after_sale",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1789,
+                        "y": 718,
+                        "width": 38,
+                        "height": 40
+                    },
+                    "region_attributes": {
+                        "Radio": "rental_agreement_other_check",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1997,
+                        "y": 715,
+                        "width": 1184,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "rental_agreement_other",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 364,
+                        "y": 782,
+                        "width": 401,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "rental_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1357,
+                        "y": 781,
+                        "width": 1814,
+                        "height": 58
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 411,
+                        "y": 859,
+                        "width": 2136,
+                        "height": 54
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 305,
+                        "y": 942,
+                        "width": 1959,
+                        "height": 55
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider_referred",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2782,
+                        "y": 2716,
+                        "width": 422,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_data\n",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2786,
+                        "y": 2638,
+                        "width": 416,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_data",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 685,
+                        "y": 2642,
+                        "width": 1959,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 680,
+                        "y": 2722,
+                        "width": 1953,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "tenant2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 920,
+                        "y": 2904,
+                        "width": 1737,
+                        "height": 45
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2790,
+                        "y": 2897,
+                        "width": 411,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 916,
+                        "y": 2827,
+                        "width": 1741,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_signature",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2791,
+                        "y": 2827,
+                        "width": 412,
+                        "height": 43
+                    },
+                    "region_attributes": {
+                        "Radio": "housing_provider1_date",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "Radio": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "Radio",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "TFHD.png801088"
+    ]
+}

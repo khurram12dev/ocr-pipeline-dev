@@ -1,0 +1,227 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "WFA"
+        }
+    },
+    "_via_img_metadata": {
+        "WFA.png1345984": {
+            "filename": "WFA.png",
+            "size": 982326,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 686,
+                        "y": 589,
+                        "width": 2182,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "property_address",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 582,
+                        "y": 3094,
+                        "width": 1056,
+                        "height": 97
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 582,
+                        "y": 3217,
+                        "width": 1057,
+                        "height": 96
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant2_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 625,
+                        "y": 3333,
+                        "width": 1018,
+                        "height": 102
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_landlord1_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 624,
+                        "y": 3452,
+                        "width": 1020,
+                        "height": 105
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_landlord2_signature",
+                        "tag": "signature"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2607,
+                        "y": 3116,
+                        "width": 607,
+                        "height": 76
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer1_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2610,
+                        "y": 3238,
+                        "width": 595,
+                        "height": 76
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer2_date",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2606,
+                        "y": 3362,
+                        "width": 590,
+                        "height": 75
+                    },
+                    "region_attributes": {
+                        "Radio": "seller1_date\n",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2606,
+                        "y": 3485,
+                        "width": 590,
+                        "height": 73
+                    },
+                    "region_attributes": {
+                        "Radio": "seller2_date\n",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1644,
+                        "y": 3133,
+                        "width": 811,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1647,
+                        "y": 3252,
+                        "width": 793,
+                        "height": 59
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_tenant2_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1647,
+                        "y": 3373,
+                        "width": 799,
+                        "height": 63
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_landlord1_name",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1648,
+                        "y": 3493,
+                        "width": 805,
+                        "height": 64
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_landlord2_name",
+                        "tag": "blankspace"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "text"
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "WFA.png1345984"
+    ]
+}

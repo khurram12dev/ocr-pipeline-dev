@@ -1,0 +1,268 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "text",
+                "region_color": "__via_default_region_color__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": "18",
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "AD_2"
+        }
+    },
+    "_via_img_metadata": {
+        "AD_2.png1633900": {
+            "filename": "AD_2.png",
+            "size": 1586318,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 768,
+                        "y": 2270,
+                        "width": 1717,
+                        "height": 48
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2829,
+                        "y": 2272,
+                        "width": 356,
+                        "height": 46
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_brokerage_firm_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 868,
+                        "y": 2332,
+                        "width": 34,
+                        "height": 33
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_brokerage_seller_only",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1169,
+                        "y": 2333,
+                        "width": 33,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_brokerage_dual_agent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2833,
+                        "y": 2367,
+                        "width": 365,
+                        "height": 51
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_agent_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 585,
+                        "y": 2371,
+                        "width": 1912,
+                        "height": 47
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_agent",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 610,
+                        "y": 2433,
+                        "width": 30,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_agent_seller_only",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1696,
+                        "y": 2435,
+                        "width": 29,
+                        "height": 27
+                    },
+                    "region_attributes": {
+                        "Radio": "seller_agent_dual_agent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2827,
+                        "y": 2474,
+                        "width": 360,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_brokerage_firm_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 676,
+                        "y": 2473,
+                        "width": 1816,
+                        "height": 44
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_brokerage_firm",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 869,
+                        "y": 2532,
+                        "width": 31,
+                        "height": 31
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_brokerage_buyer_only",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1174,
+                        "y": 2534,
+                        "width": 34,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_brokerage_dual_agent",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 2848,
+                        "y": 2568,
+                        "width": 352,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_agent_lic#",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 590,
+                        "y": 2569,
+                        "width": 1920,
+                        "height": 49
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_agent",
+                        "tag": "blankspace"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 608,
+                        "y": 2634,
+                        "width": 31,
+                        "height": 29
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_agent_buyer_only",
+                        "tag": "checkbox"
+                    }
+                },
+                {
+                    "shape_attributes": {
+                        "name": "rect",
+                        "x": 1697,
+                        "y": 2634,
+                        "width": 32,
+                        "height": 30
+                    },
+                    "region_attributes": {
+                        "Radio": "buyer_agent_dual_agent",
+                        "tag": "checkbox"
+                    }
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {
+            "text": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            },
+            "tag": {
+                "type": "text",
+                "description": "",
+                "default_value": ""
+            }
+        },
+        "file": {}
+    },
+    "_via_data_format_version": "2.0.10",
+    "_via_image_id_list": [
+        "AD_2.png1633900"
+    ]
+}
